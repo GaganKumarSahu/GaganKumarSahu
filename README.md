@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gagan
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on arrivels
+- 💞️ I’m looking to collaborate on arrivals
 - 📫 How to reach me on LinkedIn
 
 <!---
